@@ -666,6 +666,111 @@ hr {
 .tariff-main-btn a {
   color: #050c33;
 }
+
+
+/* MAIN ADDITION*/
+
+.main-addition {
+  position: relative;
+  padding-top: 40px;
+}
+.additions-list {
+  margin-top: 45px;
+  text-align: center;
+}
+.addition-item {
+  position: relative;
+}
+.addition-label {
+  position: relative;
+  font-weight: bold;
+  font-size: 24px;
+  color: #050c33;
+}
+.addition-head br {
+  display: none;
+}
+.addition-head {
+  margin-top: 10px;
+  width: 190px;
+  max-width: 100%;
+  margin: auto;
+}
+.addition-num {
+  font-size: 28px;
+  font-weight: bold;
+  color: #050c33;
+}
+.addition-desc {
+  font-weight: 500;
+  font-size: 14px;
+  color: #050c33;
+  opacity: 0.7;
+}
+.addition-bg {
+  position: relative;
+  z-index: 5;
+}
+.addition-bg:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 114px;
+  height: 71px;
+  left: 50px;
+  bottom: -6px;
+  z-index: 1;
+  background: url("./img/Vectorlistbg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* MAIN TEAM */
+
+.main-team {
+  position: relative;
+  padding-top: 50px;
+}
+.team-label {
+  position: relative;
+  font-weight: bold;
+  font-size: 24px;
+  color: #050c33;
+  margin-bottom: 80px;
+}
+.team-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+.team-name {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  color: #050c33;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+.team-desc {
+  font-weight: 500;
+  font-size: 12px;
+
+  color: #050c33;
+  opacity: 0.7;
+}
+.team-btn {
+  margin-bottom: 90px;
+}
+.team-btn a {
+  font-size: 12px;
+  color: #050c33;
+  text-transform: uppercase;
+  padding: 12px 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 500;
+}
 /* MAIN NEWS */
 .main-news {
   position: relative;
