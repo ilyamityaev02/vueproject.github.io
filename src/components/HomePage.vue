@@ -674,6 +674,122 @@
       </div>
     </div>
   </div>
+  <div class="main-addition">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="row">
+          <h2 class="addition-label">
+            Наши профессиональные разработчики <br />
+            выполняют быстро любые задачи
+          </h2>
+        </div>
+      </div>
+      <div class="col-md-12 additions-list">
+        <div class="row justify-content-around">
+          <div class="col-md-3 col-sm-4 col-12 addition-item">
+            <div class="addition-bg">
+              <img src="@/assets/img/competency-20.svg" class="img-fluid" />
+            </div>
+            <div class="addition-head">
+              <div class="addition-num">от 1ч</div>
+              <div class="addition-desc">
+                Настройка события GA <br />в интернет-магазине
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-4 col-12 addition-item">
+            <div class="addition-bg">
+              <img src="@/assets/img/competency-21.svg" class="img-fluid" />
+            </div>
+            <div class="addition-head">
+              <div class="addition-num">от 20ч</div>
+              <div class="addition-desc">
+                Разработка мобильной <br />
+                версии сайта
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-4 col-12 addition-item">
+            <div class="addition-bg">
+              <img src="@/assets/img/competency-22.svg" class="img-fluid" />
+            </div>
+            <div class="addition-head">
+              <div class="addition-num">от 8ч</div>
+              <div class="addition-desc">Интеграция <br />модуля оплаты</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main-team">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="row text-center">
+          <h2 class="team-label">Команда</h2>
+        </div>
+        <div class="row team-list">
+          <div class="col-md-4 col-sm-6 col-6 team-item">
+            <div class="team-img">
+              <img src="@/assets/img/IMG_2472_0.jpg" class="img-fluid" />
+            </div>
+            <div class="team-name">Сергей Синица</div>
+            <div class="team-desc">
+              Руководитель отдела веб-<br />разработки, канд. техн. наук,
+              <br />заместитель директора
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-6 team-item">
+            <div class="team-img">
+              <img src="@/assets/img/IMG_2539_0.jpg" class="img-fluid" />
+            </div>
+            <div class="team-name">Роман Агабеков</div>
+            <div class="team-desc">
+              Руководитель отдела DevOPS,<br />
+              директор
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-6 team-item">
+            <div class="team-img">
+              <img src="@/assets/img/IMG_2474_1.jpg" class="img-fluid" />
+            </div>
+            <div class="team-name">Алексей Синица</div>
+            <div class="team-desc">
+              Руководитель отдела<br />
+              поддержки сайтов
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-6 team-item">
+            <div class="team-img">
+              <img src="@/assets/img/IMG_2522_0.jpg" class="img-fluid" />
+            </div>
+            <div class="team-name">Дарья Бочкарёва</div>
+            <div class="team-desc">
+              Руководитель отдела<br />
+              продвижения, контекстной<br />
+              рекламы и контент-поддержки<br />
+              сайтов
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-6 team-item">
+            <div class="team-img">
+              <img src="@/assets/img/IMG_9971_16.jpg" class="img-fluid" />
+            </div>
+            <div class="team-name">Ирина Торкунова</div>
+            <div class="team-desc">
+              Менеджер по работе с<br />
+              клиентами
+            </div>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="team-btn">
+            <a href="#">Вся команда</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="main-news">
     <div class="container">
       <div class="col-md-12">
