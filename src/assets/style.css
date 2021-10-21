@@ -968,6 +968,91 @@ hr {
 .workers-carousel.second .slick-track {
   margin-left: 10%;
 }
+/* MAIN FAQ */
+
+.main-faq {
+  position: relative;
+  margin-bottom: 50px;
+}
+.faq-label {
+  position: relative;
+  font-weight: bold;
+  font-size: 24px;
+  color: #050c33;
+  margin-bottom: 30px;
+}
+.accordion-button {
+  display: flex;
+  align-items: inherit;
+  position: relative;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  color: #050c33;
+  line-height: 1;
+  transition: color 0.3s;
+}
+.accordion-item {
+  border: 0;
+  transition: border-color 0.35s;
+  border: 3px solid transparent;
+  border-radius: 0;
+  padding-bottom: 10px;
+}
+.accordion-body {
+  font-weight: 500;
+  font-size: 14px;
+  color: #050c33;
+  line-height: 1.37;
+  opacity: 0.7;
+}
+.accordion-num {
+  display: block;
+  min-width: 15px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 12px;
+  color: #828a9b;
+  margin-top: 1px;
+  margin-right: 3px;
+}
+.accordion-button:not(.collapsed) {
+  color: #f14e3b;
+  background: transparent;
+  box-shadow: none;
+}
+.accordion-button::after {
+  display: none;
+}
+.accordion-item:not(:first-of-type) {
+  border-top: 3px solid transparent;
+}
+.accordion-button {
+  padding: 0.5rem 1.25rem;
+}
+.accordion-button:focus {
+  border: none;
+  box-shadow: none;
+}
+.accordion-item.opened {
+  border-color: #f14e3b;
+}
+.accordion-body {
+  padding: 0rem 2.75rem;
+  padding-right: 0rem;
+  padding-left: 2rem;
+}
+.accordion-item:first-of-type {
+  border-radius: 0;
+}
+.accordion-item:not(:first-of-type) {
+  border-color: transparent;
+  transition: border-color 0.35s;
+}
+.accordion-item.opened:not(:first-of-type) {
+  border: 3px solid;
+  border-color: #f14e3b;
+}
 /* FOOTER */
 footer {
   position: relative;
