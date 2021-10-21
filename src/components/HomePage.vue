@@ -806,6 +806,24 @@
       </div>
     </div>
   </div>
+    <div class="main-workers">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="row text-center">
+          <h2 class="workers-label">С нами работают</h2>
+          <p class="workers-desc">
+            Десятки компаний доверяют нам самое ценное, что у них есть в
+            интернете – свои<br />
+            сайты. Мы делаем всё, чтобы наше сотрудничество было долгим.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="workers-carousels">
+      <Carousel v-bind:firstSliderItems="firstSliderItems" />
+      <Carousel v-bind:secondSliderItems="secondSliderItems" />
+    </div>
+  </div>
   <footer>
     <div class="container">
       <div class="col-12">
