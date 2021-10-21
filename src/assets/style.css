@@ -922,6 +922,52 @@ hr {
 .reviews-counter-active {
   color: #050c33;
 }
+/* MAIN WORKERS */
+.main-workers {
+  margin-top: 100px;
+  position: relative;
+}
+.workers-label {
+  position: relative;
+  font-weight: bold;
+  font-size: 24px;
+  color: #050c33;
+}
+.workers-desc {
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: initial;
+  color: #050c33;
+  opacity: 0.7;
+  margin-bottom: 40px;
+}
+.workers-desc br {
+  display: none;
+}
+.workers-carousels {
+  margin-bottom: 30px;
+}
+.workers-carousel-wrapper {
+  padding: 5px;
+}
+.workers-carousel-item {
+  overflow: hidden;
+  display: flex;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 5px;
+  height: 80px;
+  min-height: 80px;
+}
+.workers-carousels .slick-slide img {
+  margin: 0 auto;
+  align-self: center;
+}
+.workers-carousel.second .slick-track {
+  margin-left: 10%;
+}
 /* FOOTER */
 footer {
   position: relative;
