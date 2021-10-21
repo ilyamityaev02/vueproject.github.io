@@ -532,6 +532,22 @@ export default {
   components: { Carousel, Reviews, Form },
   data() {
     return {
+          firstSliderItems: [
+        { id: 1, img: "vtb.png", class: "first" },
+        { id: 2, img: "kubsu.png", class: "first" },
+        { id: 3, img: "rosatom.png", class: "first" },
+        { id: 4, img: "vtb.png", class: "first" },
+        { id: 5, img: "kubsu.png", class: "first" },
+        { id: 6, img: "rosatom.png", class: "first" }
+      ],
+      secondSliderItems: [
+        { id: 1, img: "vtb.png", class: "second" },
+        { id: 2, img: "kubsu.png", class: "second" },
+        { id: 3, img: "rosatom.png", class: "second" },
+        { id: 4, img: "vtb.png", class: "second" },
+        { id: 5, img: "kubsu.png", class: "second" },
+        { id: 6, img: "rosatom.png", class: "second" }
+      ],
       reviewsSliderItems: [
         {
           id: 1,
