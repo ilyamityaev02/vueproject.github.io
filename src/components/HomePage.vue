@@ -674,6 +674,113 @@
       </div>
     </div>
   </div>
+  <div class="main-news">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="row text-center">
+          <h2 class="news-label">
+            Последние кейсы
+          </h2>
+        </div>
+        <div class="row news-list">
+          <div class="col-md-4 col-12 news-item mini">
+            <div class="news-mini-header">
+              <img src="@/assets/img/image1.png" class="img-fluid" />
+            </div>
+            <div class="news-mini-content">
+              <div class="news-mini-title">
+                <a href="#">
+                  Настройка кэширования<br />
+                  данных. Апгрейд севера. <br />
+                  Ускорение работы сайта в 30 раз!
+                </a>
+              </div>
+              <div class="news-mini-date"><p>04.05.2020</p></div>
+              <div class="news-mini-desc">
+                <p>
+                  Влияние скорости загрузки страниц <br />сайта на отказы и
+                  конверсии. Кейс <br />ускорения...
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-8 col-12 news-item full">
+            <div class="news-full-bg">
+              <img src="@/assets/img/image2.png" class="img-fluid" />
+            </div>
+            <div class="news-full-content">
+              <div class="news-full-title">
+                <a href="#">
+                  Использование отчетов<br />
+                  Ecommerce в Яндекс.Метрике
+                </a>
+              </div>
+              <div class="news-full-date">
+                <p>24.01.2020</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-12 news-item full">
+            <div class="news-full-bg">
+              <img src="@/assets/img/image3.png" class="img-fluid" />
+            </div>
+            <div class="news-full-content">
+              <div class="news-full-title">
+                <a href="#">
+                  Повышение конверсии <br />
+                  страницы с формой заявки <br />
+                  с применением AB- <br />
+                  тестирования
+                </a>
+              </div>
+              <div class="news-full-date">
+                <p>22.02.2019</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 news-item full">
+            <div class="news-full-bg">
+              <img src="@/assets/img/image4.png" class="img-fluid" />
+            </div>
+            <div class="news-full-content">
+              <div class="news-full-title">
+                <a href="#">
+                  Drupal 7: ускорение<br />
+                  времени генерации<br />
+                  страниц интернет-магазина<br />
+                  на 32%
+                </a>
+              </div>
+              <div class="news-full-date">
+                <p>18.09.2019</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-12 news-item mini">
+            <div class="news-mini-header">
+              <img src="@/assets/img/image5.png" class="img-fluid" />
+            </div>
+            <div class="news-mini-content">
+              <div class="news-mini-title">
+                <a href="#">
+                  Обмен товарами и заказами <br />
+                  интернте-магазинов на <br />
+                  Druapl 7 c 1С:Предприятие, <br />
+                  МойСклад, Класс365
+                </a>
+              </div>
+              <div class="news-mini-date"><p>22.08.2019</p></div>
+              <div class="news-mini-desc">
+                <p>Опубликован <a href="#">релиз модуля...</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="main-reviews">
     <div class="container">
       <div class="col-md-12">
