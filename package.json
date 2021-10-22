@@ -25,5 +25,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyamityaev02/vueproject.github.io"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyamityaev02/vueproject.github.io/issues"
+  },
+  "homepage": "https://github.com/ilyamityaev02/vueproject.github.io#readme"
 }
