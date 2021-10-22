@@ -7,7 +7,7 @@ import HomePage from "./components/HomePage.vue";
 import Modal from "./components/Modal.vue";
 import Form from "./components/Form.vue";
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes: [
     {
       path: "/",
